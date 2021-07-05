@@ -26,3 +26,8 @@ width:80%;
     font-weight: 700;
     border-radius: 10px;
 }
+.top-banner{
+    background-image: url(images/top-banner-3.png);
+    background-repeat: no-repeat;
+}
+
