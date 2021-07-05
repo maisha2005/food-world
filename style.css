@@ -59,3 +59,38 @@ width:80%;
     background-repeat: no-repeat;
     background-position: left;
 }
+#recipies-area{
+    border-left:7px solid;
+    border-right:7px solid;
+    border-top:7px solid;
+    border-bottom:7px solid;
+    border-image:linear-gradient(purple,blue);
+    border-image-slice: 1;
+}
+#recipies-corner{
+    border-left:7px solid;
+    border-right:7px solid;
+    border-top:7px solid;
+    border-bottom:7px solid;
+    border-image:linear-gradient(salmon,yellow);
+    border-image-slice: 1;
+}
+#recipies-world{
+    border-left:7px solid;
+    border-right:7px solid;
+    border-top:7px solid;
+    border-bottom:7px solid;
+    border-image:linear-gradient(teal,forestgreen);
+    border-image-slice: 1;
+}
+footer{
+    color:yellowgreen;
+}
+.green-color{
+    color:tomato;
+}
+footer p {
+    text-align: center;
+}
+      
+ 
