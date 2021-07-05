@@ -9,6 +9,8 @@ h1{
 }
 section{
     display:flex;
+    margin-bottom:150px;
+    margin-right: 50px;
 }
 .half-width{
     width:70%;
@@ -29,5 +31,7 @@ width:80%;
 .top-banner{
     background-image: url(images/top-banner-3.png);
     background-repeat: no-repeat;
+    background-position:1%;
+    padding-right: 20px;
 }
 
