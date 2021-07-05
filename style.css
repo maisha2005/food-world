@@ -1,5 +1,6 @@
 body{
  font-family: 'Tourney', cursive;
+ font-size: 20px;
 }
 h1{
     font-size: 50px;
@@ -34,4 +35,6 @@ width:80%;
     background-position:1%;
     padding-right: 20px;
 }
-
+.go-center{
+    text-align: center;
+}
