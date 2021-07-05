@@ -5,6 +5,9 @@ body{
 h1{
     font-size: 50px;
 }
+h2{
+    font-size: 40px;
+}
 .teal-color{
     color:teal;
 }
@@ -37,4 +40,22 @@ width:80%;
 }
 .go-center{
     text-align: center;
+}
+.images{
+    text-align: center;
+    border-radius: 20px;
+    border:1px solid;
+}
+.recipies-item{
+    width:40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 10px;
+    border-radius: 25px;
+    box-shadow: 10px 10px 45px gray;
+}
+.recipies-items{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
 }
