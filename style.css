@@ -8,7 +8,7 @@ h1{
 .teal-color{
     color:teal;
 }
-section{
+.flexible-container{
     display:flex;
     margin-bottom:150px;
     margin-right: 50px;
